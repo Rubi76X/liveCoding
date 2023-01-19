@@ -1,3 +1,3 @@
-# liveCoding
+# LiveCoding
 
-Ejercicios de practica
+Ejercicios de práctica
